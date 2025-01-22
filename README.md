@@ -44,6 +44,3 @@ python app.py
 1. Open two terminal windows
 2. In first terminal, run frontend: `npm run dev`
 3. In second terminal, run backend: `cd backend && python app.py`
-
-## Deployment
-Visit [Lovable](https://lovable.dev/projects/c0de97c3-fa72-4482-81b2-0a164ab32878) to publish your project.
