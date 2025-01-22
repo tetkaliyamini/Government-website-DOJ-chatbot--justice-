@@ -1,5 +1,3 @@
-# Welcome to your Lovable project
-
 ## Project Structure
 - `src/`: Frontend React application
 - `backend/`: Python Flask backend
